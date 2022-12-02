@@ -1,0 +1,35 @@
+.main-heading {
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: bold;
+    color: red;
+    text-align: center;
+}
+
+.sub-heading {
+    font-family: "Roboto";
+    font-size: 25px;
+    color: orange;
+}
+
+.c1 {
+    background-color: white;
+    border: 5px solid blue;
+    padding: 10px;
+    overflow: auto;
+}
+
+.bg-container {
+    background-color: grey;
+    height: 100vh;
+}
+
+.head {
+    font-family: "Roboto";
+    font-size: 25px;
+
+}
+
+.sea {
+    border-radius: 10px 0px 10px 0px;
+}
